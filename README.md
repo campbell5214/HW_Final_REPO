@@ -53,4 +53,4 @@ Since all K's have similar accuracy it could indicate that the dataset has a cle
 Also, the slight variations in accuracy might also suggest that the choice of k has a minor impact on the overall performance for this specific dataset.
 
 ## Line Chart
-The line chart is turned in on Canvas! 
+The line chart is in the Github Repo
